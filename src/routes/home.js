@@ -79,9 +79,10 @@ export default () => {
         <table id="yes-deadline" style="width: 100%">
           <colgroup>
             <col width="21%">
-            <col width="25%">
-            <col width="25%">
-            <col width="25%">
+            <col width="19%">
+            <col width="19%">
+            <col width="19%">
+			<col width="19%">
           </colgroup>
           <thead>
             <tr style="border-bottom: 1px solid #dce3eb; font-weight: bold; height: 30px">
