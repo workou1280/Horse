@@ -13,14 +13,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nbsp1221/klas-helper.git"
+    "url": "git+https://github.com/worrior-of-wisdom/Horse.git"
   },
   "author": "nbsp1221",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/nbsp1221/klas-helper/issues"
+    "url": "https://github.com/worrior-of-wisdom/Horse/issues"
   },
-  "homepage": "https://github.com/nbsp1221/klas-helper#readme",
+  "homepage": "https://github.com/worrior-of-wisdom/Horse#readme",
   "devDependencies": {
     "@babel/core": "^7.11.4",
     "@babel/preset-env": "^7.11.0",
