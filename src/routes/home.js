@@ -89,6 +89,7 @@ export default () => {
               <td>온라인 강의</td>
               <td>과제</td>
               <td>팀 프로젝트</td>
+			  <td>퀴즈</td>
             </tr>
           </thead>
           <tbody></tbody>
